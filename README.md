@@ -1,11 +1,12 @@
 # test
-First repository to test git commits/changes
 
-This is my first change!
+##First repository to test git commits/changes
 
-This is my second change!
+###This is my first change!
 
-First web change
+###This is my second change!
+
+###First web change
 
 web diverge
 
